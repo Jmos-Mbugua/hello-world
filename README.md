@@ -1,7 +1,7 @@
 # Hello-World
 
-## Authors
-- [John Mbugua](https://github.com/Jmos-Mbugua/hello-world)
+## Author
+- [John Mbugua](https://github.com/Jmos-Mbugua)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
